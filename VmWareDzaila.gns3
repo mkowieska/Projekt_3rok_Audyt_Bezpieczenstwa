@@ -21,9 +21,54 @@
                 "drawing_id": "e139a198-5da2-43c6-bea3-d2425a4c234b",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"66\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Dyrektor</text></svg>",
-                "x": -79,
-                "y": 63,
+                "svg": "<svg width=\"164\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Dyrektor/Administrator</text></svg>",
+                "x": -132,
+                "y": 64,
+                "z": 2
+            },
+            {
+                "drawing_id": "440fad31-de46-4f94-b883-64ec67ba8837",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"330\" height=\"269\"><rect width=\"330\" height=\"269\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -586,
+                "y": -165,
+                "z": 0
+            },
+            {
+                "drawing_id": "1a776de7-3fd7-4edc-8c75-31f04a85370d",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"244\" height=\"270\"><rect width=\"244\" height=\"270\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -176,
+                "y": -165,
+                "z": -1
+            },
+            {
+                "drawing_id": "e29a01d8-bd56-4076-b756-a60477e601fe",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"330\" height=\"269\"><rect width=\"330\" height=\"269\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 137,
+                "y": -164,
+                "z": 0
+            },
+            {
+                "drawing_id": "9ae4b7e9-a679-47e8-9a2d-e8e4fa12557e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"119\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">HR + Sekretariat</text></svg>",
+                "x": 254,
+                "y": 67,
+                "z": 2
+            },
+            {
+                "drawing_id": "fc29445c-546a-4680-8192-cfb3d6da8992",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"54\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Dzial IT</text></svg>",
+                "x": -457,
+                "y": 62,
                 "z": 2
             }
         ],
@@ -403,7 +448,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": -6,
+                            "x": -31,
                             "y": 21
                         },
                         "node_id": "ccfb6ba9-d5b1-437c-af56-ec0cd7c4021d",
@@ -503,8 +548,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -675,
-                "y": -3,
+                "x": -563,
+                "y": 0,
                 "z": 1
             },
             {
@@ -532,8 +577,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 187,
-                "y": 2,
+                "x": 166,
+                "y": 8,
                 "z": 1
             },
             {
@@ -548,8 +593,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "PC3",
-                    "x": 12,
-                    "y": -25
+                    "x": -12,
+                    "y": -27
                 },
                 "locked": false,
                 "name": "PC3",
@@ -561,8 +606,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -332,
-                "y": 0,
+                "x": -378,
+                "y": -13,
                 "z": 1
             },
             {
@@ -590,8 +635,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 415,
-                "y": 0,
+                "x": 318,
+                "y": 7,
                 "z": 1
             },
             {
@@ -670,8 +715,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -498,
-                "y": -83,
+                "x": -490,
+                "y": -85,
                 "z": 1
             },
             {
@@ -750,8 +795,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 292,
-                "y": -93,
+                "x": 288,
+                "y": -92,
                 "z": 1
             },
             {
@@ -819,8 +864,8 @@
                 "symbol": ":/symbols/classic/router.svg",
                 "template_id": "c19b6f36-88a3-4698-a814-1cf82f5ff7a6",
                 "width": 66,
-                "x": -251,
-                "y": -302,
+                "x": -273,
+                "y": -278,
                 "z": 1
             },
             {
@@ -888,8 +933,8 @@
                 "symbol": ":/symbols/classic/router.svg",
                 "template_id": "c19b6f36-88a3-4698-a814-1cf82f5ff7a6",
                 "width": 66,
-                "x": 22,
-                "y": -278,
+                "x": 184,
+                "y": -122,
                 "z": 1
             },
             {
@@ -1113,8 +1158,8 @@
                 "symbol": ":/symbols/cloud.svg",
                 "template_id": "39e257dc-8412-3174-b6b3-0ee3ed6a43e9",
                 "width": 159,
-                "x": -680,
-                "y": -412,
+                "x": -673,
+                "y": -431,
                 "z": 1
             },
             {
@@ -1182,8 +1227,8 @@
                 "symbol": ":/symbols/classic/router.svg",
                 "template_id": "c19b6f36-88a3-4698-a814-1cf82f5ff7a6",
                 "width": 66,
-                "x": -226,
-                "y": -71,
+                "x": -344,
+                "y": -109,
                 "z": 1
             },
             {
@@ -1251,8 +1296,8 @@
                 "symbol": ":/symbols/classic/router.svg",
                 "template_id": "c19b6f36-88a3-4698-a814-1cf82f5ff7a6",
                 "width": 66,
-                "x": 435,
-                "y": -126,
+                "x": 379,
+                "y": -140,
                 "z": 1
             },
             {
@@ -1331,8 +1376,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -95,
-                "y": -177,
+                "x": -89,
+                "y": -121,
                 "z": 1
             },
             {
